@@ -9,7 +9,7 @@
 
 * CIVARA
 * Irrigation Scheduling System
-* Farmerfriend.py
+
 
 ## Skills
 
