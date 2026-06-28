@@ -9,6 +9,8 @@
 
 * CIVARA
 * Irrigation Scheduling System
+* 🌱 Rural Opportunity Hub — https://mousmijoshi.github.io/rural-hub/
+
 
 
 ## Skills
@@ -16,9 +18,11 @@
 * Python
 * C / C++
 * HTML & CSS
+* Git
 * GitHub
 * MySQL
 * Frontend Development
+* Web Development 
 * AI Tools
 
 ## Goals
