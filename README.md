@@ -15,7 +15,6 @@
 - 🔭 Working on: **CIVARA** & **Irrigation Scheduling System**
 - 🌱 Learning: Python, GitHub, AI Tools & Web Development
 - 🤝 Open to: **Internship opportunities**
-- 💬 Ask me about: Python, C/C++, MySQL, Frontend Development
 - ⚡ Goal: Build impactful software projects that solve real-world problems
 
 ---
