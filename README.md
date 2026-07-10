@@ -65,12 +65,13 @@
 
 **📱 [CIVARA](https://github.com/mousmijoshi/CIVARA)**
 
-An Android application built to solve a real, everyday problem with a clean and simple user experience. Focused on practical functionality over flashy design, so it's genuinely usable.
+An Android-based Smart Governance System that digitizes citizen-administration interaction — includes a real-time Complaint Portal, Event Calendar, AI-driven Chatbot, and an SOS emergency safety feature with live GPS alerts.
 
 **Tech Stack:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005A9C?style=flat-square&logo=xml&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
