@@ -15,7 +15,42 @@
 - 🔭 Working on: **CIVARA** & **Irrigation Scheduling System**
 - 🌱 Learning: Python, GitHub, AI Tools & Web Development
 - 🤝 Open to: **Internship opportunities**
+- 💬 Ask me about: Python, C/C++, MySQL, Frontend Development
 - ⚡ Goal: Build impactful software projects that solve real-world problems
+
+---
+
+### 🏅 Achievements
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏆 Competitions**
+
+- 🥇 Winner — IoT Hackathon<br><sub>Government Polytechnic, Amravati</sub>
+- 🥇 Gold Medal — Mathematics Olympiad
+- 💡 Hackathon Participant<br><sub>Priyadarshini College of Engineering, Nagpur</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**💼 Internships**
+
+- 🐍 Full Stack Python Intern<br><sub>iBase Electrosoft Pvt Ltd, Amravati</sub>
+- 🎨 Frontend Development Intern<br><sub>Widesoftech Pvt Ltd, Nagpur</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🌍 Community & Certifications**
+
+- 🟩 NVIDIA Community Member<br><sub>via Google Developer Program</sub>
+- 🧘 Certified Yoga Trainer & Wellness Advisor<br><sub>Kavikulguru Kalidas University, Ramtek</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,7 +69,6 @@
 
 ### 🛠️ Tech Stack
 
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql,github,git&theme=dark" />
 </p>
@@ -42,22 +76,18 @@
 <p align="center">
 <img src="https://img.shields.io/badge/AI%20Tools-6E56CF?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-### 🏅 Achievements
 
-**Competitions & Hackathons**
-- 🥇 Winner — IoT Hackathon, Government Polytechnic, Amravati
-- 🥇 Gold Medal — Mathematics Olympiad
-- 💡 Hackathon Participant — Priyadarshini College of Engineering, Nagpur
+---
 
-**Internships**
-- 🐍 Full Stack Python Intern — iBase Electrosoft Pvt Ltd, Amravati
-- 🎨 Frontend Development Intern — Widesoftech Pvt Ltd, Nagpur
+### 🏆 Trophies
 
-**Community & Certifications**
-- 🟩 NVIDIA Community Member — via Google Developer Program
-- 🧘 University-Certified Yoga Trainer & Wellness Advisor — Kavikulguru Kalidas University, Ramtek
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mousmijoshi&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-- ### 📌 Featured Projects
+---
+
+### 📌 Featured Projects
 
 <table>
 <tr>
@@ -105,3 +135,7 @@ A website designed to connect rural communities with accessible information and 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mousmijoshi&theme=tokyo-night&hide_border=true" width="90%" />
+</div>
