@@ -112,7 +112,7 @@ A full-stack Python application that helps farmers plan and automate irrigation 
 <tr>
 <td width="50%" valign="top">
 
-**🏡 [Rural Hub](https://github.com/mousmijoshi/rural-hub)**
+**🏡 [GramDharini](https://github.com/mousmijoshi/rural-hub)**
 
 A website designed to connect rural communities with accessible information and services — bridging the gap between rural users and digital resources through a simple, easy-to-navigate interface.
 
